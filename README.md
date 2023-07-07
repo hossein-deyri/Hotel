@@ -2,7 +2,7 @@
 
 ![view1](https://github.com/hossein-deyri/Hotel/assets/136192436/842e440d-09de-4ddd-95e9-46bbc16609c0)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Capture2](https://github.com/hossein-deyri/Hotel/assets/136192436/77d36510-49f3-4be6-9f54-0926537adf04)
 
 - [Demo Project](https://hossein-deyri.github.io/Hotel/)
 
