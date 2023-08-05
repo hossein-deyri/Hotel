@@ -1,4 +1,4 @@
-# Hotel
+# Template-website-Hotel
 
 ![view1](https://github.com/hossein-deyri/Hotel/assets/136192436/842e440d-09de-4ddd-95e9-46bbc16609c0)
 
@@ -10,7 +10,7 @@
 
 - Created - 2023-07-07
 
-- Technologies Used - Html5 , css3 
+- Technologies Used - Html5, Css3, Sass 
 
 - Role - Frontend
 
