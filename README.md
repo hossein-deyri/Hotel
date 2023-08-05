@@ -4,7 +4,7 @@
 
 ![Capture2](https://github.com/hossein-deyri/Hotel/assets/136192436/77d36510-49f3-4be6-9f54-0926537adf04)
 
-- [Demo Project]([https://hossein-deyri.github.io/Hotel/](https://hossein-deyri.github.io/Template-website-Hotel/))
+- [Demo Project](https://hossein-deyri.github.io/Template-website-Hotel/)
 
 - Developed by Hossein Deyri
 
