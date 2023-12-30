@@ -1,9 +1,5 @@
 # Template-website-Hotel
-Not Responsive
-
-![view1](https://github.com/hossein-deyri/Hotel/assets/136192436/842e440d-09de-4ddd-95e9-46bbc16609c0)
-
-![Capture2](https://github.com/hossein-deyri/Hotel/assets/136192436/77d36510-49f3-4be6-9f54-0926537adf04)
+( Not Responsive )
 
 - [Demo Project](https://hossein-deyri.github.io/Template-website-Hotel/)
 
@@ -16,3 +12,7 @@ Not Responsive
 - Role - Frontend
 
 - How to reach me : with my [instagram](https://www.instagram.com/hossein.deyri_web) and [linkedin](https://www.linkedin.com/in/hossein-deyri)
+
+![view1](https://github.com/hossein-deyri/Hotel/assets/136192436/842e440d-09de-4ddd-95e9-46bbc16609c0)
+
+![Capture2](https://github.com/hossein-deyri/Hotel/assets/136192436/77d36510-49f3-4be6-9f54-0926537adf04)
